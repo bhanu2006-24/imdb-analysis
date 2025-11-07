@@ -77,8 +77,8 @@ The dashboard delivers **multi-perspective insights** into movies, cast members,
 ### Step‑by‑Step Guide
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/imdb-dashboard.git
-cd imdb-dashboard
+git clone https://github.com/bhanu2006-24/imbd-analysis.git
+cd imdb-analysis
 
 # 2. Create a virtual environment
 python -m venv venv

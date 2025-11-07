@@ -1,0 +1,38 @@
+# --- Python cache and compiled files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+
+# --- OS-specific files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs and temporary files ---
+*.log
+*.tmp
+*.swp
+
+# --- Jupyter and notebooks ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- Data files (optional: ignore raw datasets if large) ---
+*.csv
+*.tsv
+*.xlsx
+
+# --- Environment variables ---
+.env
+
+# --- Streamlit specific ---
+.streamlit/
+
+# --- VSCode / IDE settings ---
+.vscode/
+.idea/
